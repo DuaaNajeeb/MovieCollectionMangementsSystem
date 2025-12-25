@@ -1,0 +1,30 @@
+001,The Matrix,Lana Wachowski,Sci-Fi,1999,5
+002,Stranger Things,The Duffer Brothers,TV Show,2016,4
+003,Interstellar,Christopher Nolan,Sci-Fi,2014,5
+004,Planet Earth,Alastair Fothergill,Documentary,2006,5
+005,Love Death and Robots,Tim Miller,Animation,2019,3
+006,Cosmos A Spacetime Odyssey,Ann Druyan,Documentary,2014,4
+007,Wall E,Andrew Stanton,Animation,2008,5
+008,Black Mirror,Charlie Brooker,TV Show,2011,5
+009,Big Hero 6,Don Hall,Animation,2014,4
+010,The Mandalorian,Jon Favreau,TV Show,2019,5
+011,Spider Man Into The Spider Verse,Peter Ramsey,Animation,2018,5
+012,The Martian,Ridley Scott,Sci-Fi,2015,4
+013,Apollo Eleven,Todd Douglas Miller,Documentary,2019,3
+014,Gravity,Alfonso Cuaron,Sci-Fi,2013,4
+015,The Midnight Gospel,Duncan Trussell,Animation,2020,2
+016,Rick And Morty,Dan Harmon,Animation,2013,5
+017,The Expanse,Mark Fergus,TV Show,2015,4
+018,The Social Dilemma,Jeff Orlowski,Documentary,2020,5
+019,The Blue Planet,Alastair Fothergill,Documentary,2001,4
+020,Kurzgesagt The Egg,Philipp Dettmer,Short Film,2019,5
+021,The Silent Child,Chris Overton,Short Film,2017,4
+022,Star Wars The Clone Wars,Dave Filoni,Animation,2008,3
+023,Moon,Duncan Jones,Sci-Fi,2009,4
+024,Abstract The Art Of Design,Scott Dadich,Documentary,2017,5
+025,The Simpsons,Matt Groening,TV Show,1989,5
+026,Arcane,Pascal Charrue,Animation,2021,5
+027,The Space Between Us,Peter Chelsom,Sci-Fi,2017,3
+028,Free Guy,Shawn Levy,Sci-Fi,2021,4
+029,For All Mankind,Ronald D Moore,TV Show,2019,5
+030,One Small Step,Andrew Chesworth,Short Film,2018,2
